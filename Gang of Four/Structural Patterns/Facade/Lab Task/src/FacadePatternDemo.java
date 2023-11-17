@@ -8,6 +8,10 @@
  *
  * @author FA20-BSE-062
  */
-public interface Shape {
-   void draw();
+public class FacadePatternDemo {
+    public static void main(String[] args) {
+        ShapeMaker shapeMaker = new ShapeMaker();
+
+        shapeMaker.draw("circle,rectangle,square,triangle");
+    }
 }

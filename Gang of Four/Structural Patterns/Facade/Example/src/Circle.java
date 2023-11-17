@@ -11,14 +11,7 @@
 public class Circle implements Shape {
 
    @Override
-   public void draw(String... options) {
-      System.out.println("Circle::draw()" + printWithOptions(options));
+   public void draw() {
+      System.out.println("Circle::draw()");
    }
-
-    private String printWithOptions(String[] options) {
-        String optionsForPrint = "";
-        for(String opt: options)
-            optionsForPrint += opt + " ";
-        return optionsForPrint;
-    }
 }

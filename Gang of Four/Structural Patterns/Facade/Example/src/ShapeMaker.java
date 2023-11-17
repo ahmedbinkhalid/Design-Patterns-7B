@@ -19,8 +19,8 @@ public class ShapeMaker {
       square = new Square();
    }
 
-   public void drawCircle(String... options){
-      circle.draw(options);
+   public void drawCircle(){
+      circle.draw();
    }
    public void drawRectangle(){
       rectangle.draw();

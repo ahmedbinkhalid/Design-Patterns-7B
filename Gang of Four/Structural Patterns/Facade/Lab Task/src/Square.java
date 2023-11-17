@@ -8,6 +8,10 @@
  *
  * @author FA20-BSE-062
  */
-public interface Shape {
-   void draw();
+public class Square implements Shape {
+
+   @Override
+   public void draw() {
+      System.out.println("Square::draw()");
+   }
 }

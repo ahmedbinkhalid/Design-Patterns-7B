@@ -8,6 +8,9 @@
  *
  * @author FA20-BSE-062
  */
-public interface Shape {
-   void draw();
+class Triangle implements Shape {
+    @Override
+    public void draw() {
+        System.out.println("Triangle::draw()");
+    }
 }

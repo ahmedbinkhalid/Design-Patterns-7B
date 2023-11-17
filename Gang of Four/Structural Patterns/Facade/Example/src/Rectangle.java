@@ -11,7 +11,7 @@
 public class Rectangle implements Shape {
 
    @Override
-   public void draw(String... options) {
-      System.out.println("Rectangle::draw()" + options);
+   public void draw() {
+      System.out.println("Rectangle::draw()");
    }
 }

@@ -11,7 +11,7 @@
 public class Square implements Shape {
 
    @Override
-   public void draw(String... options) {
-      System.out.println("Square::draw()" + options);
+   public void draw() {
+      System.out.println("Square::draw()");
    }
 }
