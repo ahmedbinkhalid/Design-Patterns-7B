@@ -6,7 +6,7 @@ package GOF.BehavioralPattern.Strategy.LabTask;
 
 /**
  *
- * @author shafq
+ * 
  */
 public class OperationSubstract implements Strategy{
    @Override

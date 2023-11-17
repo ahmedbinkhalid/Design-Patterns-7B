@@ -6,7 +6,7 @@ package GOF.BehavioralPattern.Strategy.TutorialPointExample;
 
 /**
  *
- * @author shafq
+ * 
  */
 public class StrategyPatternDemo {
    public static void main(String[] args) {

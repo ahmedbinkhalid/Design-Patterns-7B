@@ -6,7 +6,7 @@ package GOF.BehavioralPattern.Strategy.TutorialPointExample;
 
 /**
  *
- * @author shafq
+ * 
  */
 public class OperationMultiply implements Strategy{
    @Override
