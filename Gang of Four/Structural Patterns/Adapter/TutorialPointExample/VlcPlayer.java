@@ -6,7 +6,7 @@ package GOF.StructuralPattern.Adapter.TutorialPointExample;
 
 /**
  *
- * @author shafq
+ * @author ahmed
  */
 public class VlcPlayer implements AdvancedMediaPlayer{
    @Override
