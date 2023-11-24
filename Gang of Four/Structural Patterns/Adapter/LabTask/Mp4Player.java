@@ -6,7 +6,7 @@ package GOF.StructuralPattern.Adapter.LabTask;
 
 /**
  *
- * @author shafq
+ * @author ahmed
  */
 public class Mp4Player implements AdvancedMediaPlayer{
 
