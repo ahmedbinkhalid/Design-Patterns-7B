@@ -6,7 +6,7 @@ package GOF.StructuralPattern.Adapter.LabTask;
 
 /**
  *
- * @author shafq
+ * @author ahmed
  */
 public interface MediaPlayer {
    public void play(String audioType, String fileName);
