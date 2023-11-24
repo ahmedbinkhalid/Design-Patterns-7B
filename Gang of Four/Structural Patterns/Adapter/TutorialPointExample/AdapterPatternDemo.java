@@ -6,7 +6,7 @@ package GOF.StructuralPattern.Adapter.TutorialPointExample;
 
 /**
  *
- * @author shafq
+ * @author ahmed
  */
 public class AdapterPatternDemo {
    public static void main(String[] args) {
