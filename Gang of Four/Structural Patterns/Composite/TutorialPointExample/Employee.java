@@ -7,7 +7,7 @@ package GOF.StructuralPattern.Composite.TutorialPointExample;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 import java.util.ArrayList;
 import java.util.List;
