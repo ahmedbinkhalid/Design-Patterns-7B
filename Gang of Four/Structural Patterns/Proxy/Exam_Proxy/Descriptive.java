@@ -1,4 +1,4 @@
-package GOF.Lab8.proxy.Exam_Proxy;
+
 
 public class Descriptive implements Question {
 
