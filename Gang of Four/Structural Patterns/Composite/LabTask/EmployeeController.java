@@ -7,7 +7,7 @@ package GOF.StructuralPattern.Composite.LabTask;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 class EmployeeController {
     public String generateOrganogram(IEmployee employee) {
