@@ -13,7 +13,7 @@ import java.util.TimerTask;
 
 /**
  *
- * @author fa20-bse-044
+ * @author fa20-bse-062
  */
 class Player {
     private State state;
