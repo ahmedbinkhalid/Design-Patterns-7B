@@ -14,7 +14,7 @@ import javax.swing.JTextField;
 
 /**
  *
- * @author fa20-bse-044
+ * @author fa20-bse-062
  */
 class UI {
     private Player player;
