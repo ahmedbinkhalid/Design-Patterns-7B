@@ -7,7 +7,7 @@ package GOF.StructuralPattern.Flyweight.LabTask.trees;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 import java.awt.*;
 
