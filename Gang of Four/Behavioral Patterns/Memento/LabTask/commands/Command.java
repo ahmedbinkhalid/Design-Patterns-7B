@@ -7,7 +7,7 @@ package GOF.BehavioralPattern.Memento.refactoringguru.commands;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 public interface Command {
     String getName();
