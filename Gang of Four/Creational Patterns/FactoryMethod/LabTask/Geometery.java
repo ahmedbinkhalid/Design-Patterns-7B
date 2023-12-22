@@ -7,7 +7,7 @@ package GOF.CreationalPattern.FactoryMethod.LabTask;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 public abstract class Geometery {
 	public abstract Shape createShape();
