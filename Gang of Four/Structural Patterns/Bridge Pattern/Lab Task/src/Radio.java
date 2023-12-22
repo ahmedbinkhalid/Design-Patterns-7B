@@ -7,7 +7,7 @@
 
 /**
  *
- * @author fa20-bse-044
+ * @author fa20-bse-062
  */
 public class Radio implements Device {
     private boolean on = false;
