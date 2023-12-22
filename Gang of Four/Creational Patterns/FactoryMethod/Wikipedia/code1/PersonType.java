@@ -7,7 +7,7 @@ package GOF.CreationalPattern.FactoryMethod.Wikipedia.code1;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 // Enum for Person types
 public enum PersonType {
