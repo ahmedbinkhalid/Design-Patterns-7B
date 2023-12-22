@@ -7,7 +7,7 @@ package GOF.CreationalPattern.FactoryMethod.RFExample;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 import GOF.CreationalPattern.FactoryMethod.RFExample.factory.Dialog;
 import GOF.CreationalPattern.FactoryMethod.RFExample.factory.HtmlDialog;
