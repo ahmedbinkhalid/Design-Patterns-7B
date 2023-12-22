@@ -6,7 +6,7 @@
 
 /**
  *
- * @author fa20-bse-044
+ * @author fa20-bse-062
  */
 public class Tv implements Device {
     private boolean on = false;
