@@ -7,7 +7,7 @@ package GOF.CreationalPattern.FactoryMethod.RFExample.buttons;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 public interface Button {
     void render();
