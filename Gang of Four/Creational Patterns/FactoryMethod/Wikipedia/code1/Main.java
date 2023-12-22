@@ -7,7 +7,7 @@ package GOF.CreationalPattern.FactoryMethod.Wikipedia.code1;
 
 /**
  *
- * @author FA20-BSE-042
+ * @author FA20-BSE-062
  */
 public class Main {
  public static void main(String[] args) {
