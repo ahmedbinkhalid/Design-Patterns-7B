@@ -7,7 +7,7 @@
 
 /**
  *
- * @author fa20-bse-044
+ * @author fa20-bse-062
  */
  public class AC implements Device {
        private boolean on = false;
